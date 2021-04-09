@@ -1,4 +1,4 @@
-# Mail.java
+# Mail.py
 
 **Python Mail Script**
 
