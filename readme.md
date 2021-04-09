@@ -1,4 +1,4 @@
-# Mail.py
+# Python_MailScript.py
 
 **Python Mail Script**
 
